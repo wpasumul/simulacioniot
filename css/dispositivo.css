@@ -18,7 +18,7 @@ input[type=range] {
     height: 14px;
     cursor: pointer;
 
-    box-shadow: 1px 1px 1px #0cc206;
+    box-shadow: 1px 1px 1px #000000;
     background: #4ca717;
     border-radius: 14px;
     border: 0px solid #00f7ff;
@@ -91,6 +91,6 @@ input[type=range] {
     background: #106a9e;
   }
   input[type=range]:focus::-ms-fill-upper {
-    background: #58a356;
+    background: #0c4f64;
   }
   
