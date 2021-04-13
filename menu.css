@@ -1,0 +1,18 @@
+.menu > nav{
+    background-color: #181bce;
+   
+}
+.menu > nav > table {
+    margin: 0 auto; 
+    color: #a7caaf;
+}
+
+a {
+    text-decoration-line: none;
+    color: rgb(40, 143, 161);
+    color: #5536e0;
+}
+mi-footer {
+    background-color: rgb(212, 0, 0);
+    color: rgb(238, 238, 238);
+}
