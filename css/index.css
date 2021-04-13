@@ -2,7 +2,7 @@
     background-color: #000000;
     width: 100%;
     text-align: left;
-    color: #1d8bac;
+    color: #ffffff;
 }
 .header > span , h1{
     display: inline-block;
@@ -23,6 +23,6 @@ meter{
 }
 #icon2{
     font-size: 400%;
-    color: #1594aa;
+    color: #080d0e;
 
 }
