@@ -19,9 +19,9 @@ input[type=range] {
     cursor: pointer;
 
     box-shadow: 1px 1px 1px #000000;
-    background: #4ca717;
+    background: #8ea581;
     border-radius: 14px;
-    border: 0px solid #00f7ff;
+    border: 0px solid #b3c4c5;
   }
   input[type=range]::-webkit-slider-thumb {
     box-shadow: 0px 0px 0px #501a74;
@@ -45,7 +45,7 @@ input[type=range] {
     box-shadow: 1px 1px 1px #000000;
     background: #168f89;
     border-radius: 14px;
-    border: 0px solid #11aa6a;
+    border: 0px solid #c3d3cc;
   }
   input[type=range]::-moz-range-thumb {
     box-shadow: 0px 0px 0px #11d6dd;
@@ -66,7 +66,7 @@ input[type=range] {
     color: transparent;
   }
   input[type=range]::-ms-fill-lower {
-    background: #179e6a;
+    background: #17619e;
     border: 0px solid #000000;
     border-radius: 28px;
     box-shadow: 1px 1px 1px #095709;
