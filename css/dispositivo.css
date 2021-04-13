@@ -67,7 +67,7 @@ input[type=range] {
   }
   input[type=range]::-ms-fill-lower {
     background: #179e6a;
-    border: 0px solid #2d9b12;
+    border: 0px solid #000000;
     border-radius: 28px;
     box-shadow: 1px 1px 1px #095709;
   }
