@@ -4,7 +4,7 @@
 }
 .menu > nav > table {
     margin: 0 auto; 
-    color: #25aa42;
+    color: #a7caaf;
 }
 
 a {
@@ -14,5 +14,5 @@ a {
 }
 mi-footer {
     background-color: rgb(77, 20, 20);
-    color: rgb(22, 175, 48);
+    color: rgb(238, 238, 238);
 }
