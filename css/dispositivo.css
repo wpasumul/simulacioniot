@@ -18,7 +18,7 @@ input[type=range] {
     height: 14px;
     cursor: pointer;
 
-    box-shadow: 1px 1px 1px #24a14a;
+    box-shadow: 1px 1px 1px #c20606;
     background: #9e4a23;
     border-radius: 14px;
     border: 0px solid #ff0000;
@@ -29,7 +29,7 @@ input[type=range] {
     height: 20px;
     width: 40px;
     border-radius: 12px;
-    background: #07af07;
+    background: #2f3b7c;
     cursor: pointer;
     -webkit-appearance: none;
     margin-top: -3px;

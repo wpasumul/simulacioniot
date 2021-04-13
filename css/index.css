@@ -1,8 +1,8 @@
 .header{
-    background-color: #283655;
+    background-color: #09b38e;
     width: 100%;
     text-align: left;
-    color: #D0E1F9;
+    color: #2dac1d;
 }
 .header > span , h1{
     display: inline-block;
@@ -23,6 +23,6 @@ meter{
 }
 #icon2{
     font-size: 400%;
-    color: #A9A9A9;
+    color: #1594aa;
 
 }
