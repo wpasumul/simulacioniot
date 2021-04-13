@@ -3,7 +3,7 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `&copy; 2021
-      Gomez Noveron Pedro Daniel.`;
+      Navarro Corona Alejandro IC52M.`;
   }
 }
 customElements.define(
